@@ -44,11 +44,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\RabbitMQ-Publisher-Consumer\\RabbitMQ-Publisher-Consumer\\Publisher\\Publisher.csproj",
+      "projectUniqueName": "C:\\Projetos\\c-rabbitmq-poc\\Publisher\\Publisher.csproj",
       "projectName": "Publisher",
-      "projectPath": "C:\\Projetos\\RabbitMQ-Publisher-Consumer\\RabbitMQ-Publisher-Consumer\\Publisher\\Publisher.csproj",
+      "projectPath": "C:\\Projetos\\c-rabbitmq-poc\\Publisher\\Publisher.csproj",
       "packagesPath": "C:\\Users\\FelipeCS\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\RabbitMQ-Publisher-Consumer\\RabbitMQ-Publisher-Consumer\\Publisher\\obj\\",
+      "outputPath": "C:\\Projetos\\c-rabbitmq-poc\\Publisher\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -13,7 +13,7 @@ namespace Publisher
             using (var conexao = factory.CreateConnection())
             {
                 using (var canal = conexao.CreateModel()) {
-                    canal.QueueDeclare(queue: "SIGFIS",
+                    canal.QueueDeclare(queue: "teste",
                         durable: false,
                         exclusive: false,
                         autoDelete: false,
@@ -24,7 +24,7 @@ namespace Publisher
                     string mensagem = Console.ReadLine();
 
                     canal.BasicPublish(exchange: "",
-                        routingKey: "SIGFIS",
+                        routingKey: "teste",
                         basicProperties: null,
                         body: Encoding.UTF8.GetBytes(mensagem));
 

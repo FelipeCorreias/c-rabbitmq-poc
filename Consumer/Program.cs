@@ -14,7 +14,7 @@ namespace Consumer
             {
                 using (var canal = conexao.CreateModel())
                 {
-                    canal.QueueDeclare(queue: "SIGFIS",
+                    canal.QueueDeclare(queue: "teste",
                         durable: false,
                         exclusive: false,
                         autoDelete: false,
@@ -37,7 +37,7 @@ namespace Consumer
                        
                     };
 
-                    canal.BasicConsume(queue: "SIGFIS",
+                    canal.BasicConsume(queue: "teste",
                         autoAck: false,
                         consumer: consumidor);
 

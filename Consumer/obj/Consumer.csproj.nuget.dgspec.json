@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\RabbitMQ-Publisher-Consumer\\RabbitMQ-Publisher-Consumer\\Consumer\\Consumer.csproj": {}
+    "C:\\Projetos\\c-rabbitmq-poc\\Consumer\\Consumer.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\RabbitMQ-Publisher-Consumer\\RabbitMQ-Publisher-Consumer\\Consumer\\Consumer.csproj": {
+    "C:\\Projetos\\c-rabbitmq-poc\\Consumer\\Consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\RabbitMQ-Publisher-Consumer\\RabbitMQ-Publisher-Consumer\\Consumer\\Consumer.csproj",
+        "projectUniqueName": "C:\\Projetos\\c-rabbitmq-poc\\Consumer\\Consumer.csproj",
         "projectName": "Consumer",
-        "projectPath": "C:\\Projetos\\RabbitMQ-Publisher-Consumer\\RabbitMQ-Publisher-Consumer\\Consumer\\Consumer.csproj",
+        "projectPath": "C:\\Projetos\\c-rabbitmq-poc\\Consumer\\Consumer.csproj",
         "packagesPath": "C:\\Users\\FelipeCS\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\RabbitMQ-Publisher-Consumer\\RabbitMQ-Publisher-Consumer\\Consumer\\obj\\",
+        "outputPath": "C:\\Projetos\\c-rabbitmq-poc\\Consumer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
