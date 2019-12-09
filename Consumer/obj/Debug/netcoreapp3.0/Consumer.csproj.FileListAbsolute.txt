@@ -1,0 +1,13 @@
+C:\Projetos\RabbitMQ-Publisher-Consumer\RabbitMQ-Publisher-Consumer\Consumer\bin\Debug\netcoreapp3.0\Consumer.exe
+C:\Projetos\RabbitMQ-Publisher-Consumer\RabbitMQ-Publisher-Consumer\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfoInputs.cache
+C:\Projetos\RabbitMQ-Publisher-Consumer\RabbitMQ-Publisher-Consumer\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfo.cs
+C:\Projetos\RabbitMQ-Publisher-Consumer\RabbitMQ-Publisher-Consumer\Consumer\bin\Debug\netcoreapp3.0\Consumer.deps.json
+C:\Projetos\RabbitMQ-Publisher-Consumer\RabbitMQ-Publisher-Consumer\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.json
+C:\Projetos\RabbitMQ-Publisher-Consumer\RabbitMQ-Publisher-Consumer\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.dev.json
+C:\Projetos\RabbitMQ-Publisher-Consumer\RabbitMQ-Publisher-Consumer\Consumer\bin\Debug\netcoreapp3.0\Consumer.dll
+C:\Projetos\RabbitMQ-Publisher-Consumer\RabbitMQ-Publisher-Consumer\Consumer\bin\Debug\netcoreapp3.0\Consumer.pdb
+C:\Projetos\RabbitMQ-Publisher-Consumer\RabbitMQ-Publisher-Consumer\Consumer\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Projetos\RabbitMQ-Publisher-Consumer\RabbitMQ-Publisher-Consumer\Consumer\obj\Debug\netcoreapp3.0\Consumer.csprojAssemblyReference.cache
+C:\Projetos\RabbitMQ-Publisher-Consumer\RabbitMQ-Publisher-Consumer\Consumer\obj\Debug\netcoreapp3.0\Consumer.csproj.CopyComplete
+C:\Projetos\RabbitMQ-Publisher-Consumer\RabbitMQ-Publisher-Consumer\Consumer\obj\Debug\netcoreapp3.0\Consumer.dll
+C:\Projetos\RabbitMQ-Publisher-Consumer\RabbitMQ-Publisher-Consumer\Consumer\obj\Debug\netcoreapp3.0\Consumer.pdb
